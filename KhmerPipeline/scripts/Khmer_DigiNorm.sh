@@ -9,9 +9,6 @@
 #PBS -j oe
 
 
-#load java 
-
-module load java
 module load python/2.7.3
 module load khmer/1.3
 
